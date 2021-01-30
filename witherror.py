@@ -1,4 +1,4 @@
-#run code by entering "python3 nathan_liu_hw1.py" in command line prompt
+#run code by entering "python3 witherror.py" in command line prompt
 
 try:
   year = int(input("Enter year: "))
